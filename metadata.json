@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic UI Components Showcase",
+  "description": "Interactive showcase of Motion Footer, Tilted Grid Hero, and Etched Accretion WebGL components with shadcn architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
